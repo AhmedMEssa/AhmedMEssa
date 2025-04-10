@@ -1,5 +1,5 @@
 ### Hi, I'm Ahmed Essa👋  
-I'm a Backend .NET Developer 🧠 from [Your Country]
+I'm a Backend .NET Developer 🧠 from Egypt
 
 ---
 
